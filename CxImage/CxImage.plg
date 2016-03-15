@@ -1,0 +1,125 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: CxImage - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\LIPENG~1\AppData\Local\Temp\RSPFB09.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /I "..\jpeg" /I "..\png" /I "..\zlib" /I "..\mng" /I "..\tiff" /I "..\j2k" /I "..\jasper\include" /D "WIN32" /D "NDEBUG" /D "_LIB" /D "JAS_WIN_MSVC_BUILD" /D "_CRT_SECURE_NO_DEPRECATE" /Fo"Release/" /Fd"Release/" /FD /c 
+"H:\DICOM\CXimage¿â\cximage600_full\CxImage\tif_xfile.cpp"
+"H:\DICOM\CXimage¿â\cximage600_full\CxImage\ximabmp.cpp"
+"H:\DICOM\CXimage¿â\cximage600_full\CxImage\ximadsp.cpp"
+"H:\DICOM\CXimage¿â\cximage600_full\CxImage\ximaenc.cpp"
+"H:\DICOM\CXimage¿â\cximage600_full\CxImage\ximaexif.cpp"
+"H:\DICOM\CXimage¿â\cximage600_full\CxImage\ximage.cpp"
+"H:\DICOM\CXimage¿â\cximage600_full\CxImage\ximagif.cpp"
+"H:\DICOM\CXimage¿â\cximage600_full\CxImage\ximahist.cpp"
+"H:\DICOM\CXimage¿â\cximage600_full\CxImage\ximaico.cpp"
+"H:\DICOM\CXimage¿â\cximage600_full\CxImage\ximainfo.cpp"
+"H:\DICOM\CXimage¿â\cximage600_full\CxImage\ximaint.cpp"
+"H:\DICOM\CXimage¿â\cximage600_full\CxImage\ximajas.cpp"
+"H:\DICOM\CXimage¿â\cximage600_full\CxImage\ximajbg.cpp"
+"H:\DICOM\CXimage¿â\cximage600_full\CxImage\ximajpg.cpp"
+"H:\DICOM\CXimage¿â\cximage600_full\CxImage\ximalpha.cpp"
+"H:\DICOM\CXimage¿â\cximage600_full\CxImage\ximalyr.cpp"
+"H:\DICOM\CXimage¿â\cximage600_full\CxImage\ximamng.cpp"
+"H:\DICOM\CXimage¿â\cximage600_full\CxImage\ximapal.cpp"
+"H:\DICOM\CXimage¿â\cximage600_full\CxImage\ximapcx.cpp"
+"H:\DICOM\CXimage¿â\cximage600_full\CxImage\ximapng.cpp"
+"H:\DICOM\CXimage¿â\cximage600_full\CxImage\ximaraw.cpp"
+"H:\DICOM\CXimage¿â\cximage600_full\CxImage\ximasel.cpp"
+"H:\DICOM\CXimage¿â\cximage600_full\CxImage\ximaska.cpp"
+"H:\DICOM\CXimage¿â\cximage600_full\CxImage\ximatga.cpp"
+"H:\DICOM\CXimage¿â\cximage600_full\CxImage\ximath.cpp"
+"H:\DICOM\CXimage¿â\cximage600_full\CxImage\ximatif.cpp"
+"H:\DICOM\CXimage¿â\cximage600_full\CxImage\ximatran.cpp"
+"H:\DICOM\CXimage¿â\cximage600_full\CxImage\ximawbmp.cpp"
+"H:\DICOM\CXimage¿â\cximage600_full\CxImage\ximawmf.cpp"
+"H:\DICOM\CXimage¿â\cximage600_full\CxImage\ximawnd.cpp"
+"H:\DICOM\CXimage¿â\cximage600_full\CxImage\xmemfile.cpp"
+]
+Creating command line "cl.exe @C:\Users\LIPENG~1\AppData\Local\Temp\RSPFB09.tmp" 
+Creating temporary file "C:\Users\LIPENG~1\AppData\Local\Temp\RSPFB0A.tmp" with contents
+[
+/nologo /out:"Release\cximage.lib" 
+".\Release\tif_xfile.obj"
+".\Release\ximabmp.obj"
+".\Release\ximadsp.obj"
+".\Release\ximaenc.obj"
+".\Release\ximaexif.obj"
+".\Release\xImage.obj"
+".\Release\ximagif.obj"
+".\Release\ximahist.obj"
+".\Release\ximaico.obj"
+".\Release\ximainfo.obj"
+".\Release\ximaint.obj"
+".\Release\ximajas.obj"
+".\Release\ximajbg.obj"
+".\Release\ximajpg.obj"
+".\Release\ximalpha.obj"
+".\Release\ximalyr.obj"
+".\Release\ximamng.obj"
+".\Release\ximapal.obj"
+".\Release\ximapcx.obj"
+".\Release\ximapng.obj"
+".\Release\ximaraw.obj"
+".\Release\ximasel.obj"
+".\Release\ximaska.obj"
+".\Release\ximatga.obj"
+".\Release\ximath.obj"
+".\Release\ximatif.obj"
+".\Release\ximatran.obj"
+".\Release\ximawbmp.obj"
+".\Release\ximawmf.obj"
+".\Release\ximawnd.obj"
+".\Release\xmemfile.obj"
+]
+Creating command line "link.exe -lib @C:\Users\LIPENG~1\AppData\Local\Temp\RSPFB0A.tmp"
+<h3>Output Window</h3>
+Compiling...
+tif_xfile.cpp
+ximabmp.cpp
+ximadsp.cpp
+ximaenc.cpp
+ximaexif.cpp
+ximage.cpp
+ximagif.cpp
+ximahist.cpp
+ximaico.cpp
+ximainfo.cpp
+ximaint.cpp
+ximajas.cpp
+ximajbg.cpp
+ximajpg.cpp
+ximalpha.cpp
+ximalyr.cpp
+ximamng.cpp
+ximapal.cpp
+ximapcx.cpp
+ximapng.cpp
+Generating Code...
+Compiling...
+ximaraw.cpp
+ximasel.cpp
+ximaska.cpp
+ximatga.cpp
+ximath.cpp
+ximatif.cpp
+ximatran.cpp
+ximawbmp.cpp
+ximawmf.cpp
+ximawnd.cpp
+xmemfile.cpp
+Generating Code...
+Creating library...
+
+
+
+<h3>Results</h3>
+cximage.lib - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
